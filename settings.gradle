@@ -1,0 +1,2 @@
+rootProject.name = "Cosmolot"
+include ':app'

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859000447431",
+    "project_id": "cosmolots-atmosphere",
+    "storage_bucket": "cosmolots-atmosphere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859000447431:android:05ce0b0020ba0a37ef39e2",
+        "android_client_info": {
+          "package_name": "cos.mol.ott"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859000447431-d7eqe9u5ekoh54he9uqn3t5alh9i6js9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdNfv27Hze99co-HQu9E55Fu-MxNDa38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859000447431-d7eqe9u5ekoh54he9uqn3t5alh9i6js9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
