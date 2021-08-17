@@ -154,4 +154,9 @@ public class MainActivity extends AppCompatActivity {
         return batteryCharge || usbCharge || acCharge;
 
     }
+
+    @Override
+    public void onBackPressed() {
+
+    }
 }

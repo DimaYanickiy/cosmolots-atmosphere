@@ -173,7 +173,8 @@ public class Cosmos extends AppCompatActivity {
                 }
             }
         });
-        show.loadUrl(fs.getTochka());
+        String tochka = fs.getTochka();
+        show.loadUrl(tochka);
     }
 
     @Override
